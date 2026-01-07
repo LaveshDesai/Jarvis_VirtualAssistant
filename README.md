@@ -1,4 +1,4 @@
-# 🎙️ Jarvis Voice Assistant (Python)
+# 🎙️ Jarvis Voice Assistant
 
 A simple Python-based voice assistant that listens for the wake word **"Jarvis"** and performs tasks like opening websites, playing music, and reading news aloud.
 
