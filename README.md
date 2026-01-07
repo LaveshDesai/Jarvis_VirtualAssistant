@@ -17,6 +17,3 @@ A simple Python-based voice assistant that listens for the wake word **"Jarvis"*
 - Webbrowser
 - Requests
 
-## 📦 Installation
-```bash
-pip install SpeechRecognition pyttsx3 requests pyaudio
